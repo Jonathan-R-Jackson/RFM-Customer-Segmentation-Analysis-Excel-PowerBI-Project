@@ -12,7 +12,7 @@ This project was created to segment customers into grouping subsets based on pur
 
 ## Introduction
 
-Data segmentation, the process of dividing data into smaller, more manageable subsets to gain a better understanding of an audience, allows businesses to tailor their marketing efforts, improve customer satisfaction, and increase sales. There are various types of data segmentation, such as demographic segmentation, which divides customers based on characteristics like age, gender, or income. The type used in this project is RFM analysis, a form of behavioral segmentation, which allows for customer groupings based on purchase recency, frequency, and monetary value.
+Data segmentation, the process of dividing data into smaller, more manageable subsets to gain a better understanding of an audience, allows businesses to tailor their marketing efforts, improve customer satisfaction, and increase sales. There are various types of data segmentation, such as demographic segmentation, which divides customers based on characteristics like age, gender, or income. The type used in this project is RFM analysis, a form of behavioral segmentation, which allows for customer groupings based on purchase recency, frequency, and monetary value from all invoice transaction data collected from 01/12/2010 to 09/12/2011.
 
 Online Retail Sales Dataset: [Download Dataset](https://github.com/Jonathan-R-Jackson/RFM-Customer-Segmentation-Analysis-Excel-Project/blob/main/Online%20Retail%20Sales%20Dataset.xlsx)
 
